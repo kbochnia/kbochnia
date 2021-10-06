@@ -2,4 +2,4 @@
 - 👀 I’m interested in getting into IT - I paln to undertake data science boot camp.
 - 🌱 I’m currently learning "data science", Pyton, GitHub.
 - 💞️ I’m looking to collaborate on "data science" projects.
-- 📫 How to reach me:  +48 502 104 627,  Mesenger: Krzysztof Bochnia,  e-mail:  krzysztof.j.bochnia@gmail.com.
+- 📫 How to reach me:  +48 502 104 627,  Messenger: Krzysztof Bochnia,  e-mail:  krzysztof.j.bochnia@gmail.com.
